@@ -1,0 +1,36 @@
+table {
+	border-collapse: collapse;
+}
+
+td {
+	padding: 0px 5px 0px 5px;
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	border-color: red;
+	text-align: center;
+}
+
+p {
+	font-family:"Times New Roman", Times, serif;
+	font-size: 15px;
+}
+
+tr {
+	padding: 0px;
+}
+.inpt {
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+	font-family:"Times New Roman", Times, serif;
+	color: rgb(100,50,150);
+	font-size: 15px;
+}
+
+input
+{
+color: #781351;
+border: 1px solid #000000;
+}
