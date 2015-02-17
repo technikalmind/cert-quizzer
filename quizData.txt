@@ -1,0 +1,4 @@
+1:What is a CPU?:Central Processing Unit - The brains of the computer
+2:What is RAM:Random Access Memory
+3:How many bits in one (1) byte?:8
+4:How many pins on a parallel port?:25 (DB-25) and 36 (DB-36)
